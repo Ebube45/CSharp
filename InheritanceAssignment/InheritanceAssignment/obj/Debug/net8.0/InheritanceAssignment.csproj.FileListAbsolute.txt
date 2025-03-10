@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.exe
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.deps.json
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.runtimeconfig.json
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.dll
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\bin\Debug\net8.0\InheritanceAssignment.pdb
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.AssemblyInfo.cs
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.dll
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\refint\InheritanceAssignment.dll
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.pdb
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\InheritanceAssignment.genruntimeconfig.cache
+C:\Users\USER\Downloads\C#\InheritanceAssignment\InheritanceAssignment\obj\Debug\net8.0\ref\InheritanceAssignment.dll
