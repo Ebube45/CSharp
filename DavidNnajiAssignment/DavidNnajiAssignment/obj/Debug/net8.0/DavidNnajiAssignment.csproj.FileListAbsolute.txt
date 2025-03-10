@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\bin\Debug\net8.0\DavidNnajiAssignment.exe
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\bin\Debug\net8.0\DavidNnajiAssignment.deps.json
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\bin\Debug\net8.0\DavidNnajiAssignment.runtimeconfig.json
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\bin\Debug\net8.0\DavidNnajiAssignment.dll
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\bin\Debug\net8.0\DavidNnajiAssignment.pdb
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\DavidNnajiAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\DavidNnajiAssignment.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\DavidNnajiAssignment.AssemblyInfo.cs
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\DavidNnajiAssignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\DavidNnajiAssignment.dll
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\refint\DavidNnajiAssignment.dll
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\DavidNnajiAssignment.pdb
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\DavidNnajiAssignment.genruntimeconfig.cache
+C:\Users\USER\Downloads\C#\DavidNnajiAssignment\DavidNnajiAssignment\obj\Debug\net8.0\ref\DavidNnajiAssignment.dll
